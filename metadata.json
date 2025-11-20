@@ -1,0 +1,7 @@
+{
+  "name": "Mzansi Speak AI",
+  "description": "A conversational voice assistant and text-to-speech tool specialized for South African languages. Features real-time voice interaction and high-quality speech synthesis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
